@@ -2,6 +2,7 @@
 This program is program to convert from '.jpg' to '.tiff'.
 
 1.準備
+
   1-1. pipをインストール
   
     ダウンロード先：https://bootstrap.pypa.io/get-pip.py よりget-pip.pyを任意のディレクトリに保存
