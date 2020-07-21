@@ -8,7 +8,7 @@ from PIL import Image
 import sys
 
 def convertFile(input_file):
-    output = str(input_File).split('.')[0] + '.tiff'
+    output = str(input_file).split('.')[0] + '.tiff'
     im = Image.open(input_file)
     im.save(output)
 
