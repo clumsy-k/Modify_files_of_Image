@@ -1,5 +1,5 @@
 # Modify_files_of_Image
-This program is program to convert from '.jpg' to '.tiff'.
+This program is to convert from '.jpg' to '.tiff'.
 
 1.準備
 
